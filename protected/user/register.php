@@ -46,7 +46,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['register'])) {
 			<input type="email" class="form-control" id="registerEmail" name="email" value="<?=isset($postData) ? $postData['email'] : "";?>">
 		</div>
 		<div class="form-group col-md-6">
-			<label for="registerEmail1">Újból email<small> Emberek vagyunk hibázunk</small><sub> kopi paszte nem ér</sub></label>
+			<label for="registerEmail1">Újból email</label>
 			<input type="email" class="form-control" id="registerEmail1" name="email1" value="<?=isset($postData) ? $postData['email1'] : "";?>">
 		</div>
 	</div>
@@ -57,7 +57,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['register'])) {
 			<input type="password" class="form-control" id="registerPassword" name="password" value="">
 		</div>
 		<div class="form-group col-md-6">
-			<label for="registerPassword1">Újból jelszó<small> Emberek vagyunk hibázunk</small><sub> kopi paszte nem ér</sub></label>
+			<label for="registerPassword1">Újból jelszó</label>
 			<input type="password" class="form-control" id="registerPassword1" name="password1" value="">
 		</div>
 	</div>

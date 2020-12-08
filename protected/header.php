@@ -7,7 +7,7 @@
 	<!-- 	<meta name="description" content=""> -->
 	<meta name="author" content="Aux Ciprián">
 
-	<title>Aux Ciprián - ImCipo</title>
+	<title>Aux Ciprián</title>
 
 	<!-- Bootstrap core CSS -->
 	<link href="./public/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -75,12 +75,5 @@
 			<a href="mailto:cipoka1@gmail.com">cipoka1@gmail.com</a>
 			<br>Tanuló
 		</div>
-		<p style="margin: 0;" class="lead">Az Eszterházy Károly Egyetem egri campusán vagyok elsőéves <i>Programtervező Informatikus fosz.</i> szakos hallgató. <br>
-			<div id="about_projects" style="margin-top: 1em">
-				Jelenleg több projekten is dolgozom: <br>
-				<ul>
-					<li>Webprog beadandó</li>
-				</ul>
-			</div>
-		</p>
+		<p style="margin: 0;" class="lead">Az Eszterházy Károly Egyetem egri campusán vagyok <i>Programtervező Informatikus fosz.</i> szakos hallgató. <br></p>
 	</div>
